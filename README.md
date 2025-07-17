@@ -1,6 +1,6 @@
 # 🌐 Clara Links
 
-![Clara Links Banner](./.github/LINKS%20DA%20CLARA%20(1).jpg) <!-- Substitua com o caminho correto da imagem -->
+![Clara Links Banner](./.github/LINKS.jpg) <!-- Substitua com o caminho correto da imagem -->
 
 > Uma página única, moderna e responsiva para concentrar seus links pessoais ou profissionais.  
 Inspirado na ideia do Linktree, com base no projeto desenvolvido durante o curso **Discover da Rocketseat**, e adaptado com identidade visual e estrutura personalizada por mim.

@@ -86,6 +86,10 @@ body *{
     animation: slide-in 0.5s forwards;
 }
 
+#switch button:hover {
+    outline: 8px solid var(--surface-color);
+}
+
 #switch span {
 
     display: Block;

@@ -9,7 +9,7 @@ Inspirado na ideia do Linktree, com base no projeto desenvolvido durante o curso
 
 ## 📸 Preview
 
-![Clara Links Screenshot](./.github/screenshot%202.png) <!-- Substitua com o print real do projeto -->
+![Clara Links Screenshot](./.github/screenshot2.png) <!-- Substitua com o print real do projeto -->
 
 ---
 
